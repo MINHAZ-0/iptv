@@ -230,23 +230,23 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520", group-title="KIDS", DURONTO TV
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLzy1LnT/20241008-185443.jpg",RONGEEN TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLzy1LnT/20241008-185443.jpg" group-title="KIDS",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla
 https://cdn3.pishow.tv/live/283/master.m3u8  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKPwJbfH/20241015-100737.jpg" group-title="KIDS", Gubbare Kids
 https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8  
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",𝘾𝘼𝙍𝙏𝙊𝙊𝙉 𝙉𝙀𝙏𝙒𝙊𝙍𝙆 𝙃𝘿
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",𝘾𝘼𝙍𝙏𝙊𝙊𝙉 𝙉𝙀𝙏𝙒𝙊𝙍𝙆 𝙃𝘿
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2232.m3u8 
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",𝘿𝙞𝙨𝙘𝙤𝙫𝙚𝙧𝙮 𝙆𝙞𝙙𝙨
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",𝘿𝙞𝙨𝙘𝙤𝙫𝙚𝙧𝙮 𝙆𝙞𝙙𝙨
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",𝙋𝘽𝙎 𝙆𝙄𝘿𝙎
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",𝙋𝘽𝙎 𝙆𝙄𝘿𝙎
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR 
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQ7ryptv_sXHFN4CQwHgdbj6m4smMSaIT_vSmtXM2KYPp1oubqY-ERaVr&s=10",𝙕𝙤𝙤 𝙈𝙤𝙤
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQ7ryptv_sXHFN4CQwHgdbj6m4smMSaIT_vSmtXM2KYPp1oubqY-ERaVr&s=10",𝙕𝙤𝙤 𝙈𝙤𝙤
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8 
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",𝙋𝙤𝙜𝙤
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",𝙋𝙤𝙜𝙤
 https://iptvcable.netlify.app/M3U8/POGO.m3u8 
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcnkOWN74yr_5z_BUVxmqeAQxdp_VvwlJg9gZTnYLV792jL80TpBgImc&s=10",𝙎𝙋𝘼𝘾𝙀𝙏𝙊𝙊𝙉
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcnkOWN74yr_5z_BUVxmqeAQxdp_VvwlJg9gZTnYLV792jL80TpBgImc&s=10",𝙎𝙋𝘼𝘾𝙀𝙏𝙊𝙊𝙉
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗼𝗿𝘆" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
